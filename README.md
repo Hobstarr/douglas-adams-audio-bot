@@ -1,8 +1,8 @@
 # Douglas Adams Bot - interaction through speech.
 
-### speech to text, custom gpt template, text to speech. #OpenAI API.
+### speech to text, custom gpt template, text to speech. #langchain / openai.
 
-Simple question-answering CLI bot that can run using CLI. 
+Simple question-answering CLI bot that uses Douglas Adams character to respond. 
 
 The script uses speech recognition to listen to a query from a user.
 The audio is then transcribed and then passed to a custom Douglas Adams themed openai call.
