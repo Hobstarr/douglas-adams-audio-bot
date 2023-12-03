@@ -1,4 +1,4 @@
-![header](https://github.com/Hobstarr/s2t-gpt-t2s-douglas-adams/assets/56070935/6b0d2fa5-115b-49bc-8966-1cf327a2818d)
+![header](https://github.com/Hobstarr/s2t-gpt-t2s-douglas-adams/assets/56070935/6b0d2fa5-115b-49bc-8966-1cf327a2818d | width=640)
 
 # Douglas Adams Bot - interaction through speech.
 
@@ -25,8 +25,8 @@ Activate .venv and install requirements:
 
 ``` pip install -r requiements.txt ```
 
-You will need an openai paid account / API key:
-https://platform.openai.com/api-keys
+You will need an [openai paid account / API key](https://platform.openai.com/api-keys):
+
 
 Set your openai_api_key variable (replace ... with your api key):
 
