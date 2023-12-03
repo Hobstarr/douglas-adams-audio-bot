@@ -14,6 +14,7 @@ to run simply:
 
 
 ### setting up environment: 
+Setting up environment, this was built using python 3.11.6 and pip 23.3.1. 
 Build a virtual environment:
 
 ``` python venv .venv ```
