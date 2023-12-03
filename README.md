@@ -15,6 +15,7 @@ to run simply:
 
 ### setting up environment: 
 Build a virtual environment:
+
 ``` python venv .venv ```
 
 Activate .venv and install requirements:
