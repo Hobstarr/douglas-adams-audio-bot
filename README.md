@@ -5,4 +5,4 @@ Douglas Adams bot that can run using CLI. speech to text, custom gpt template, t
 
 to run simply: 
 
-''' python speech_to_gpt.py '''
+``` python speech_to_gpt.py ```
