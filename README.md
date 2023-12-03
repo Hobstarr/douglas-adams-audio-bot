@@ -1,4 +1,4 @@
-![header](https://github.com/Hobstarr/s2t-gpt-t2s-douglas-adams/assets/56070935/6b0d2fa5-115b-49bc-8966-1cf327a2818d | width=640)
+<img src='https://github.com/Hobstarr/s2t-gpt-t2s-douglas-adams/assets/56070935/6b0d2fa5-115b-49bc-8966-1cf327a2818d' width='640' height='320' /)
 
 # Douglas Adams Bot - interaction through speech.
 
